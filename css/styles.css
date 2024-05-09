@@ -1,4 +1,31 @@
-#title1 {
-    font-family: 'Courier New', Courier, monospace;
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
 
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+img {
+    height: 500px;
+    width: 1000px;
+    float: left;
+    margin-right: 30px;
+}
+
+#products2 {}
+
+body {
+    background-image: linear-gradient(aqua, green);
 }
