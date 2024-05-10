@@ -1,7 +1,8 @@
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
-    text-align: center;
+
+    font-style: normal;
 }
 
 li {
@@ -28,4 +29,9 @@ img {
 
 body {
     background-image: linear-gradient(aqua, green);
+}
+
+p {
+    font-style: oblique;
+    font-size: larger;
 }
